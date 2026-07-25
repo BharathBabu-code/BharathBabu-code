@@ -13,7 +13,7 @@ I am a Computer Science student at MIT Bengaluru specializing in Cyber Security.
 * **Languages:** Python, Java, C, SQL (MySQL, PostgreSQL)
 * **AI & Security:** Large Language Models (LLMs), RAG, Vector Databases (FAISS), Zero-Trust Architecture, Prompt Injection Detection
 * **Frameworks:** FastAPI, SQLAlchemy, Pydantic
-* **Infrastructure:** Linux (CLI) / WSL, Docker, Git, Ollama
+* **Infrastructure:** Linux (CLI) / WSL, Git, Ollama
 
 ### Featured Architecture
 
