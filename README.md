@@ -7,7 +7,7 @@ I am a Computer Science student at MIT Bengaluru specializing in Cyber Security.
 ### Current Focus
 * Designing localized, privacy-first RAG pipelines with semantic guardrails.
 * Engineering self-healing, multi-agent orchestrators using Docker sandboxing.
-* Deepening expertise in Computer Networks and OS level security.
+* Mastering core Computer Science fundamentals, including Operating Systems, Database Management Systems, and Artificial Intelligence.
 
 ### Technical Stack
 * **Languages:** Python, Java, C, SQL (MySQL, PostgreSQL)
