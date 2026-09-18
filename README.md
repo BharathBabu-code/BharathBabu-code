@@ -1,15 +1,19 @@
 # Bharath Babu C L
 
-**B.Tech CSE (Cyber Security) | Focused on Secure AI & Systems Engineering**
+**B.Tech CSE (Cyber Security) | Software Engineering • AI • Cybersecurity**
 
-I am a Computer Science student at MIT Bengaluru specializing in Cyber Security. My development focus lies at the intersection of AI and secure systems engineering, specifically building robust defenses against LLM vulnerabilities and designing zero-trust architectures.
+I am a Computer Science student at MIT Bengaluru specializing in Cyber Security, with a strong interest in **software engineering, AI, and secure systems**. I build practical applications across areas such as **full-stack development, AI/LLM systems, and cybersecurity**, with a focus on developing reliable, scalable, and security-conscious software.
 
-### Current Focus
-* Full-Stack Development — currently progressing from HTML, CSS & JavaScript fundamentals into frontend frameworks, backend development, REST APIs, databases, authentication, and deployment.
+Currently, I am expanding my **full-stack development** skills while continuing to build and explore projects at the intersection of **AI and cybersecurity**.
 
-* Exploring ways to combine Full-Stack Development + Cybersecurity + AI to build secure and practical applications.
 
-* Gradually learning Docker, cloud infrastructure, and production deployment while building projects.
+##  Current Focus
+
+*  **Full-Stack Development** — progressing from HTML, CSS & JavaScript fundamentals into modern frontend, backend, databases, APIs, authentication, and deployment
+*  **AI & LLM Systems** — exploring RAG, agentic AI, multi-agent systems, and practical LLM applications
+*  **Cybersecurity** — building security-focused projects around LLM security, prompt injection, secure execution, and Zero-Trust architectures
+*  **Software Engineering** — improving system design, backend development, Git, Docker, testing, and production-oriented development
+
 
 ### Technical Stack
 * **Languages:** Python, Java, C, SQL (MySQL, PostgreSQL), JavaScript, HTML, CSS
