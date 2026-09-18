@@ -5,12 +5,14 @@
 I am a Computer Science student at MIT Bengaluru specializing in Cyber Security. My development focus lies at the intersection of AI and secure systems engineering, specifically building robust defenses against LLM vulnerabilities and designing zero-trust architectures.
 
 ### Current Focus
-* Designing localized, privacy-first RAG pipelines with semantic guardrails.
-* Engineering self-healing, multi-agent orchestrators using Docker sandboxing.
-* Mastering core Computer Science fundamentals, including Operating Systems, Database Management Systems, and Artificial Intelligence.
+* Full-Stack Development — currently progressing from HTML, CSS & JavaScript fundamentals into frontend frameworks, backend development, REST APIs, databases, authentication, and deployment.
+
+* Exploring ways to combine Full-Stack Development + Cybersecurity + AI to build secure and practical applications.
+
+* Gradually learning Docker, cloud infrastructure, and production deployment while building projects.
 
 ### Technical Stack
-* **Languages:** Python, Java, C, SQL (MySQL, PostgreSQL)
+* **Languages:** Python, Java, C, SQL (MySQL, PostgreSQL), JavaScript, HTML, CSS
 * **AI & Security:** Large Language Models (LLMs), RAG, Vector Databases (FAISS), Zero-Trust Architecture, Prompt Injection Detection
 * **Frameworks:** FastAPI, SQLAlchemy, Pydantic
 * **Infrastructure:** Linux (CLI) / WSL, Git, Ollama
