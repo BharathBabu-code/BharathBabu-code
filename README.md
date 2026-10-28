@@ -31,4 +31,3 @@ Currently, I am expanding my **full-stack development** skills while continuing 
 
 ### Contact
 * **LinkedIn:** [linkedin.com/in/bharath-babu-c-l-925251333](https://www.linkedin.com/in/bharath-babu-c-l-925251333)
-* **Email:** bharath1.mitblr2024@learner.manipal.edu
